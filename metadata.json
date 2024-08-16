@@ -4,5 +4,6 @@
     "project_description": "an app for hens",
     "creation_time": "2024-08-16 09:41:34.408636",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image utilizes a vibrant color scheme dominated by shades of pink and purple, with a surreal, otherworldly illustration style depicting a fantastical landscape of mountains and planets."
 }
