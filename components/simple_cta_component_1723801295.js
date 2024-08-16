@@ -12,7 +12,7 @@ Vue.component("simple_cta_component_1723801295", {
                     <p id="cta-subtitle" class="flex-1 mb-6 font-light text-white md:text-lg">Revolutionize your coop with our all-in-one hen care solution. From egg tracking to feed optimization, we've got your flock covered.</p>
                 </div>
                 <div id="cta-button-container" class="flex">
-                    <a id="cta-button" href="#" class="flex-1 text-purple-700 bg-white bg-opacity-80 hover:bg-opacity-100 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105">Start Egg-cellent Care</a>
+                    <a id="cta-button" href="#" class="flex-1 text-purple-700 bg-white bg-opacity-80 hover:bg-opacity-100 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105">Start Egg-cellent Care's</a>
                 </div>
             </div>
         </div>
